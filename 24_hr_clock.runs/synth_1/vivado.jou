@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Sun Feb  5 18:00:06 2023
+# Process ID: 4028
+# Current directory: C:/Users/Darrn/Documents/24_hr_format_fpga_clock/24_hr_clock.runs/synth_1
+# Command line: vivado.exe -log FPGAClock_24hr.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source FPGAClock_24hr.tcl
+# Log file: C:/Users/Darrn/Documents/24_hr_format_fpga_clock/24_hr_clock.runs/synth_1/FPGAClock_24hr.vds
+# Journal file: C:/Users/Darrn/Documents/24_hr_format_fpga_clock/24_hr_clock.runs/synth_1\vivado.jou
+# Running On: DESKTOP-U61JFH4, OS: Windows, CPU Frequency: 3493 MHz, CPU Physical cores: 12, Host memory: 34258 MB
+#-----------------------------------------------------------
+source FPGAClock_24hr.tcl -notrace
